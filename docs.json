@@ -1028,8 +1028,8 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Developer Portal",
-      "href": "https://portal.hedera.com"
+      "label": "Quickstart",
+      "href": "https://hedera.com/getting-started"
     }
   },
   "footer": {
